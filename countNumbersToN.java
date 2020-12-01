@@ -5,6 +5,8 @@
  *
  * @author (Ms. Schulze)
  * @version (1.0)
+ * 
+ * 4th period robotics is awesome!
  */
 
 import java.util.Scanner;
